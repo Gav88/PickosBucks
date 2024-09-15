@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(236, 250, 239);
+    font-family: "Gowun Dodum", sans-serif;
+    font-weight: normal;
+}
+
+h1{
+    text-align: center;
+    color: rgb(30, 144, 210);
+    font-weight: 400;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: 500;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+li{
+    font-size: larger;
+    color: seagreen;
+    
+}
+
+p{
+    font-size: small;
+    color: black;
+    
+}
+
+#button{
+    background-color: rgb(236, 250, 239);
+    font-family: "Gowun Dodum", sans-serif;
+}
+
